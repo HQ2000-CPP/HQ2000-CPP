@@ -1,12 +1,12 @@
 ## Hi! ##
-Interested in:\n
--Nature Sciences\n
--IT\n
--Technology\n
--Coding capabilities:\n
- -C++ (I know the basic syntax, long way to go...)\n
- -Python (I know the syntax, haven't used it in a while...)\n
--Pronouns: he/him\n
+Interested in:
+-Nature Sciences
+-IT
+-Technology
+-Coding capabilities:
+ -C++ (I know the basic syntax, long way to go...)
+ -Python (I know the syntax, haven't used it in a while...)
+-Pronouns: he/him
 We'll see ;-)
 
 
