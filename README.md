@@ -6,7 +6,7 @@ Interested in:
 -Coding capabilities:
  -C++ (Intermediate to Basic, Qt too a bit)
  -Python (I know the syntax, haven't used it in a while...)
--Rust(Basic, learning
+ -Rust(Basic, learning)
 -Pronouns: he/him
 We'll see ;-)
 
