@@ -4,9 +4,9 @@ Interested in:
 -IT
 -Technology
 -Coding capabilities:
- -C++ (Intermediate to Basic, Qt too a bit)
- -Python (I know the syntax, haven't used it in a while...)
- -Rust(Basic, learning)
+-C++ (Intermediate to Basic, Qt too a bit)
+-Python (I know the syntax, haven't used it in a while...)
+-Rust(Basic, learning)
 -Pronouns: he/him
 We'll see ;-)
 
