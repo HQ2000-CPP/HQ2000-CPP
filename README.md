@@ -1,14 +1,7 @@
 ## Hi! ##
-Interested in:
--Nature Sciences
--IT
--Technology
--Coding capabilities:
--C++ (Intermediate to Basic, Qt too a bit)
--Python (I know the syntax, haven't used it in a while...)
--Rust(Basic, learning)
--Pronouns: he/him
-We'll see ;-)
+Coming Soon!
+## Code Statistics:
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
 
 
 <!--
